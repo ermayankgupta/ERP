@@ -1,0 +1,2 @@
+[0mPOST /api/v1/employee/add [32m201[0m 99.260 ms - 449[0m
+::1 - - [01/Mar/2023:12:22:21 +0000] "POST /api/v1/employee/add HTTP/1.1" 400 34 "-" "PostmanRuntime/7.28.4"
